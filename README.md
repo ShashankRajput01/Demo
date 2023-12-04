@@ -1,4 +1,4 @@
 # Shashank
 This is demo project.
 <br>
-Author - Shashank Rajput
+Author - Shashank Rajput (Puttha)
