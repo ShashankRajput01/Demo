@@ -1,2 +1,3 @@
 # Demo
-This is demo project
+This is demo project.
+Author - Shashank Rajput
